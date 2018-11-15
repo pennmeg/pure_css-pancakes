@@ -1,6 +1,8 @@
 # Pure CSS Challenge: Pancakes
 
-November 15, 2018 |
+![Final Version: Pancake with Blueberries](pure_css-pancakes.png)
+
+November 15, 2018 | Dedicated to Andre (lover of food)
 
 ## Other Pure CSS Images
 
